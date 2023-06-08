@@ -1,0 +1,1 @@
+Notes and code about the book "Practical Statistics for Data Scientists" by Peter Bruce, Andrew Bruce
